@@ -1,4 +1,4 @@
-# [Live Project Preview](https://react-movie-search-8be176.netlify.app/)
+# [Live Project Preview](https://pic-some-capstone.netlify.app/)
 
 # Getting Started with Create React App
 
